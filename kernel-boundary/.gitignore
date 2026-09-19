@@ -1,0 +1,4 @@
+.work/
+linux/bin/
+teacher/*.tar.gz
+__pycache__/
