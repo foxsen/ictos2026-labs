@@ -34,7 +34,7 @@ futex 资料入口：[futex(2)](https://man7.org/linux/man-pages/man2/futex.2.ht
 
 ## 4. 编译与正确性检查
 
-所有命令在 `labs/kernel-boundary/` 执行：
+所有命令在 `kernel-boundary/` 执行：
 
 ```bash
 make -C linux advanced
