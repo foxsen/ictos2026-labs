@@ -2,3 +2,4 @@
 linux/bin/
 teacher/*.tar.gz
 __pycache__/
+results/
